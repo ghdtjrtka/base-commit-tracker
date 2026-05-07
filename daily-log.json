@@ -9,5 +9,16 @@
     "method": "self-transfer",
     "contractCommits": "7",
     "status": "success"
+  },
+  {
+    "date": "2026-05-07",
+    "timestamp": "2026-05-07T00:00:54.106Z",
+    "txHash": "0xbf726b34ab7261a8a78e750cc85403aa5f986272d7eb372fa2ec9467ded54732",
+    "blockNumber": 41171881,
+    "gasUsed": "21920",
+    "gasPrice": "6000000",
+    "method": "self-transfer",
+    "contractCommits": "7",
+    "status": "success"
   }
 ]
